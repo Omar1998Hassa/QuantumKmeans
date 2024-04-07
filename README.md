@@ -4,8 +4,7 @@
 This repository contains Python code implementing the K-means clustering algorithm along with quantum-inspired data encoding for clustering. K-means is an unsupervised machine learning algorithm used for partitioning a dataset into K distinct, non-overlapping clusters. The algorithm aims to minimize the within-cluster variance, assigning each data point to the nearest centroid.
 
 ## Contents
-- `k_means.py`: Python script containing functions for performing K-means clustering.
-- `quantum_data_encoding.py`: Python script containing functions for encoding classical data into quantum states using rotation gates.
+- `k_means.py`: Python script containing functions for performing K-means clustering using quantum encoding and fidelity between evolved states of data points and the centroids.
 - `README.md`: Documentation providing an overview of the repository and instructions for usage.
 
 ## Dependencies
